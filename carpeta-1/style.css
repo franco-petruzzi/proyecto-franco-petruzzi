@@ -1,0 +1,17 @@
+.contenedor{
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: right;
+
+}
+
+.menu__ul{
+    display: flex;
+   }
+   
+li{
+    padding-right: 20px;
+}
